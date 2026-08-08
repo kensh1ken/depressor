@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Track Finder</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Track Finder</h1>
+    <p>Type a sentence or lyric hint and press submit.</p>
+
+    <form id="searchForm">
+      <textarea id="query" placeholder="type here"></textarea>
+      <button id="submitButton" type="button">Submit</button>
+    </form>
+
+    <p id="resultText">Result: waiting for input</p>
+
+    <iframe
+      id="embed"
+      src="https://open.spotify.com/embed/track/1t8rooP3mh7H58Hr7PJqq7?utm_source=generator&theme=0"
+      width="300"
+      height="152"
+      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    ></iframe>
+
+    <script type="module" src="src/main.js"></script>
+  </body>
+</html>
