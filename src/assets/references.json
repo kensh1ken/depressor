@@ -182,11 +182,12 @@
       "fake personality",
       "burnout",
       "judgement",
-      "fed up"
+      "fed up",
+      "i may end up failing"
     ]
   },
   {
-    "trackId": "",
+    "trackId": "6tWVWIzWIJEF8k0TwCuG1X",
     "artist": "Linkin Park",
     "name": "In the End",
     "reference": [
@@ -195,15 +196,16 @@
       "gave up",
       "nothing worked",
       "lost everything",
-      "deadline",
       "rejection",
       "not worth it",
       "pointless",
-      "trying for nothing"
+      "trying for nothing",
+      "tried so hard",
+      "got so far"
     ]
   },
   {
-    "trackId": "",
+    "trackId": "2NieHu1SopLwluQhOmVPow",
     "artist": "Linkin Park",
     "name": "Breaking the Habit",
     "reference": [
@@ -216,11 +218,13 @@
       "addiction",
       "guilt",
       "regret",
-      "starting over"
+      "starting over",
+      "depression",
+      "self harm"
     ]
   },
   {
-    "trackId": "",
+    "trackId": "3agtg0x11wPvLIWkYR39nZ",
     "artist": "Linkin Park",
     "name": "Somewhere I Belong",
     "reference": [
@@ -233,11 +237,12 @@
       "confused",
       "directionless",
       "alone",
-      "fresh start"
+      "fresh start",
+      "nothingness inside of me"
     ]
   },
   {
-    "trackId": "",
+    "trackId": "18lR4BzEs7e3qzc0KVkTpU",
     "artist": "Linkin Park",
     "name": "What I've Done",
     "reference": [
@@ -250,11 +255,12 @@
       "bad decisions",
       "consequences",
       "moving forward",
-      "forgive myself"
+      "forgive myself",
+      "so let mercy come and wash away"
     ]
   },
   {
-    "trackId": "",
+    "trackId": "3TO7bbrUKrOSPGRTB5MeCz",
     "artist": "Pink Floyd",
     "name": "Time",
     "reference": [
@@ -271,7 +277,7 @@
     ]
   },
   {
-    "trackId": "",
+    "trackId": "6mFkJmJqdDVQ1REhVfGgd1",
     "artist": "Pink Floyd",
     "name": "Wish You Were Here",
     "reference": [
@@ -284,11 +290,13 @@
       "distance",
       "old memories",
       "reunion",
-      "loneliness"
+      "loneliness",
+      "hot air for a cool breeze",
+      "cold comfort for change"
     ]
   },
   {
-    "trackId": "",
+    "trackId": "5HNCy40Ni5BZJFw1TKzRsC",
     "artist": "Pink Floyd",
     "name": "Comfortably Numb",
     "reference": [
@@ -305,24 +313,7 @@
     ]
   },
   {
-    "trackId": "",
-    "artist": "Pink Floyd",
-    "name": "Money",
-    "reference": [
-      "salary",
-      "broke",
-      "rich",
-      "rent",
-      "money problems",
-      "shopping spree",
-      "greed",
-      "job",
-      "financial stress",
-      "payday"
-    ]
-  },
-  {
-    "trackId": "",
+    "trackId": "05uGBKRCuePsf43Hfm0JwX",
     "artist": "Pink Floyd",
     "name": "Brain Damage",
     "reference": [
@@ -335,11 +326,12 @@
       "voices",
       "unstable",
       "breakdown",
-      "spiraling"
+      "spiraling",
+      "lunatic"
     ]
   },
   {
-    "trackId": "",
+    "trackId": "2p8IUWQDrpjuFltbdgLOag",
     "artist": "The Weeknd",
     "name": "After Hours",
     "reference": [
@@ -356,7 +348,7 @@
     ]
   },
   {
-    "trackId": "",
+    "trackId": "09mEdoA6zrmBPgTEN5qXmN",
     "artist": "The Weeknd",
     "name": "Call Out My Name",
     "reference": [
@@ -373,7 +365,7 @@
     ]
   },
   {
-    "trackId": "",
+    "trackId": "5QO79kh1waicV47BqGRL3g",
     "artist": "The Weeknd",
     "name": "Save Your Tears",
     "reference": [
@@ -390,7 +382,7 @@
     ]
   },
   {
-    "trackId": "",
+    "trackId": "70LcF31zb1H0PyJoS1Sx1r",
     "artist": "Radiohead",
     "name": "Creep",
     "reference": [
@@ -407,7 +399,7 @@
     ]
   },
   {
-    "trackId": "",
+    "trackId": "2QjOHCTQ1Jl3zawyYOpxh6",
     "artist": "The Neighbourhood",
     "name": "Sweater Weather",
     "reference": [
@@ -420,7 +412,8 @@
       "road trip",
       "autumn",
       "romantic night",
-      "young love"
+      "young love",
+      "emotional vulnerability"
     ]
   }
 ]
