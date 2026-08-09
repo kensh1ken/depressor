@@ -166,5 +166,262 @@
       "doesnt love me back",
       "thinking about her"
     ]
+  },
+  [
+  {
+    "trackId": "0kO3njY9N1Rxgv27Ha1lLh",
+    "artist": "Linkin Park",
+    "name": "Numb",
+    "reference": [
+      "parents",
+      "expectations",
+      "people pleasing",
+      "not good enough",
+      "emotionally drained",
+      "pressure",
+      "fake personality",
+      "burnout",
+      "judgement",
+      "fed up"
+    ]
+  },
+  {
+    "trackId": "",
+    "artist": "Linkin Park",
+    "name": "In the End",
+    "reference": [
+      "failed",
+      "wasted effort",
+      "gave up",
+      "nothing worked",
+      "lost everything",
+      "deadline",
+      "rejection",
+      "not worth it",
+      "pointless",
+      "trying for nothing"
+    ]
+  },
+  {
+    "trackId": "",
+    "artist": "Linkin Park",
+    "name": "Breaking the Habit",
+    "reference": [
+      "bad habits",
+      "self sabotage",
+      "relapse",
+      "same cycle",
+      "trying to change",
+      "procrastination",
+      "addiction",
+      "guilt",
+      "regret",
+      "starting over"
+    ]
+  },
+  {
+    "trackId": "",
+    "artist": "Linkin Park",
+    "name": "Somewhere I Belong",
+    "reference": [
+      "lost",
+      "identity crisis",
+      "new beginning",
+      "don't belong",
+      "finding yourself",
+      "starting over",
+      "confused",
+      "directionless",
+      "alone",
+      "fresh start"
+    ]
+  },
+  {
+    "trackId": "",
+    "artist": "Linkin Park",
+    "name": "What I've Done",
+    "reference": [
+      "guilt",
+      "mistakes",
+      "past",
+      "regret",
+      "second chance",
+      "redemption",
+      "bad decisions",
+      "consequences",
+      "moving forward",
+      "forgive myself"
+    ]
+  },
+  {
+    "trackId": "",
+    "artist": "Pink Floyd",
+    "name": "Time",
+    "reference": [
+      "getting older",
+      "wasted years",
+      "procrastination",
+      "quarter life crisis",
+      "college",
+      "future",
+      "falling behind",
+      "time flies",
+      "missed opportunities",
+      "routine"
+    ]
+  },
+  {
+    "trackId": "",
+    "artist": "Pink Floyd",
+    "name": "Wish You Were Here",
+    "reference": [
+      "old friend",
+      "missing someone",
+      "nostalgia",
+      "childhood",
+      "used to be",
+      "lost contact",
+      "distance",
+      "old memories",
+      "reunion",
+      "loneliness"
+    ]
+  },
+  {
+    "trackId": "",
+    "artist": "Pink Floyd",
+    "name": "Comfortably Numb",
+    "reference": [
+      "numb",
+      "emotionless",
+      "detached",
+      "burnout",
+      "autopilot",
+      "empty",
+      "nothing feels real",
+      "dissociation",
+      "exhausted",
+      "escapism"
+    ]
+  },
+  {
+    "trackId": "",
+    "artist": "Pink Floyd",
+    "name": "Money",
+    "reference": [
+      "salary",
+      "broke",
+      "rich",
+      "rent",
+      "money problems",
+      "shopping spree",
+      "greed",
+      "job",
+      "financial stress",
+      "payday"
+    ]
+  },
+  {
+    "trackId": "",
+    "artist": "Pink Floyd",
+    "name": "Brain Damage",
+    "reference": [
+      "losing my mind",
+      "insanity",
+      "overthinking",
+      "mental chaos",
+      "crazy",
+      "paranoia",
+      "voices",
+      "unstable",
+      "breakdown",
+      "spiraling"
+    ]
+  },
+  {
+    "trackId": "",
+    "artist": "The Weeknd",
+    "name": "After Hours",
+    "reference": [
+      "3am",
+      "regret",
+      "ex",
+      "breakup",
+      "second chance",
+      "drunk",
+      "alone at night",
+      "guilt",
+      "messed up",
+      "can't move on"
+    ]
+  },
+  {
+    "trackId": "",
+    "artist": "The Weeknd",
+    "name": "Call Out My Name",
+    "reference": [
+      "used",
+      "rebound",
+      "one sided",
+      "sacrificed",
+      "betrayal",
+      "ex",
+      "heartbreak",
+      "left behind",
+      "still attached",
+      "replacement"
+    ]
+  },
+  {
+    "trackId": "",
+    "artist": "The Weeknd",
+    "name": "Save Your Tears",
+    "reference": [
+      "seeing your ex",
+      "awkward reunion",
+      "regret",
+      "moving on",
+      "old relationship",
+      "apology",
+      "too late",
+      "seeing them happy",
+      "closure",
+      "missed chance"
+    ]
+  },
+  {
+    "trackId": "",
+    "artist": "Radiohead",
+    "name": "Creep",
+    "reference": [
+      "out of my league",
+      "social anxiety",
+      "inferiority complex",
+      "crush",
+      "awkward",
+      "outsider",
+      "self hate",
+      "not attractive",
+      "jealous",
+      "don't belong"
+    ]
+  },
+  {
+    "trackId": "",
+    "artist": "The Neighbourhood",
+    "name": "Sweater Weather",
+    "reference": [
+      "night drive",
+      "crush",
+      "cold weather",
+      "flirting",
+      "new relationship",
+      "physical attraction",
+      "road trip",
+      "autumn",
+      "romantic night",
+      "young love"
+    ]
   }
+]
 ]
